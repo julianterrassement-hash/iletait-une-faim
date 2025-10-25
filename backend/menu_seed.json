@@ -1,0 +1,5 @@
+[
+  {"id":"burger01","name":"Burger Signature","price":9.5,"image":"/assets/IMG_BURGER.jpg","desc":"Pain maison, viande, cheddar"},
+  {"id":"tacos01","name":"Tacos Poulet","price":8.5,"image":"/assets/IMG_1325.JPG","desc":"Tacos poulet mariné, sauce maison"},
+  {"id":"acc01","name":"Accompagnements Maison","price":6.0,"image":"/assets/IMG_1326.JPG","desc":"Frites et beignets croustillants"}
+]
